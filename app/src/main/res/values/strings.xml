@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Architecture Example</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="priority">Priority</string>
+    <string name="add_note">Add Note</string>
 </resources>
